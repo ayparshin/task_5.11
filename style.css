@@ -8,12 +8,14 @@ header {
     align-items: center;
     justify-content: center;
     height: 400px;
-    background: url('https://pixabay.com/get/g058d17e9ad2c5562540e78be5642efa7d2d479977b117cad2cce211126d2322a442718d35454a744ac33491c59ac13efdb7cb245661c430f96aff9d273e8db3f4abbe1ee0c47dcdb20f2918817fe01fb_1920.jpg') bottom no-repeat;
+    background: url('https://pixabay.com/get/g31b52b8d56f8ed7e1474b1fd4a20a4b1af2d3660a0eb26c2e06274673479030089222e3cbbeea5a775df15367d697bbd1d364506e153a28be761be56dca6d8b6d8e6291dfe6a667426bb7669d35db0c1_1920.jpg') bottom no-repeat;
+/*    background: url('https://pixabay.com/get/g058d17e9ad2c5562540e78be5642efa7d2d479977b117cad2cce211126d2322a442718d35454a744ac33491c59ac13efdb7cb245661c430f96aff9d273e8db3f4abbe1ee0c47dcdb20f2918817fe01fb_1920.jpg') bottom no-repeat;*/
     background-size: cover;
 }
 
 h1 {
-    color: #E83A00;
+/*    color: #E83A00;*/
+    color: rgb(255, 68, 68);
     font-size: 4rem;
     font-family: 'Times New Roman', Times, serif;
 }

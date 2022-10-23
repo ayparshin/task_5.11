@@ -10,12 +10,21 @@
 
 ## Использованные материалы
 
-* Картинки
+**Картинки**
 
-* Материалы
+Фон header взят из сайта pixabay.com
+
+**Обложки статей взяты из сайтов** 
+- [championat.com](https://www.championat.com)
+- [autosport.com.ru](https://autosport.com.ru)
+- [matchtv.ru](https://matchtv.ru)
+
+
+**Материалы**
+
 Источник новостей - новостной портал Dzen News
 https://dzen.ru/news/rubric/sport?issue_tld=ru
 
 ## Как открыть/запустить
 
-Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html, наслаждайся.
+Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html, наслаждаться чтением.
