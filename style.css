@@ -32,6 +32,10 @@ article {
     border-bottom: 1px solid rgb(128, 128, 128);
 }
 
+article:nth-child(even) {
+    background-color: rgb(241, 247, 255);
+}
+
 article a {
     color: rgb(33, 37, 41);
     text-decoration: none;
@@ -78,4 +82,8 @@ footer .links > a {
 .copyright {
     color: rgb(108, 117, 125);
     font-family: 'Times New Roman', Times, serif;
+}
+/* Вот это было не просто, над этим пришлось часик повозиться... */
+article:nth-child(-n+2) h2::before {
+    content: " New ";
 }
